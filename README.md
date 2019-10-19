@@ -6,4 +6,4 @@ El <strong>Listner</strong> recibe los dats de los clientes y decide a cual se d
 ![](https://github.com/isgam1/Chat-TCP-Listner/blob/master/readme/TCP-Listner.png)
 
 
-Para ver la parte del cliente lo puede hacer por este link: https://github.com/isgam1/Chat-TCP-Client
+Para ver la parte del Chat del cliente lo puede hacer por este link: https://github.com/isgam1/Chat-TCP-Client

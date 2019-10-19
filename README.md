@@ -1,6 +1,6 @@
 # Chat-TCP-Listner
 
-
+El <strong>Listner</strong> recibe los dats de los clientes y decide a cual se desea comunicarse de la lista.
 
 
 ![](https://github.com/isgam1/Chat-TCP-Listner/blob/master/readme/TCP-Listner.png)
